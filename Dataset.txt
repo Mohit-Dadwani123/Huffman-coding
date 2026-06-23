@@ -1,0 +1,16 @@
+Data Structures and Algorithms are fundamental concepts
+for software engineering and competitive programming.
+
+Huffman coding is a lossless data compression algorithm.
+It assigns shorter binary codes to more frequent characters
+and longer codes to less frequent characters.
+
+The quick brown fox jumps over the lazy dog.
+Machine learning and artificial intelligence generate
+large amounts of data that often require compression.
+
+Trees, heaps, hash tables, graphs, queues, stacks,
+and priority queues are important data structures.
+
+Efficient algorithms improve performance and reduce
+memory usage in software applications.
